@@ -32,6 +32,11 @@ I'm passionate about building backend applications and applying Machine Learning
 - NumPy
 - Scikit-learn
 
+### Cloud & DevOps
+- Docker
+- Kubernetes
+- AWS
+
 ## 📚 Currently Learning
 
 - Spring Boot
