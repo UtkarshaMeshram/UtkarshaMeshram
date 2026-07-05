@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Utkarsha Meshram 👋
 
-<!--
-**UtkarshaMeshram/UtkarshaMeshram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Computer Science Student** at VIT Pune
 
-Here are some ideas to get you started:
+I'm passionate about building backend applications and applying Machine Learning to solve real-world problems. I enjoy learning new technologies, solving Data Structures & Algorithms problems, and developing software that is practical and impactful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- Backend Development
+- Machine Learning Projects
+- Data Structures & Algorithms
+- Building real-world software projects
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Java
+- Python
+- SQL
+- JavaScript
+
+**Web Technologies**
+- HTML
+- CSS
+
+**Tools & Technologies**
+- Git
+- GitHub
+- MySQL
+- MongoDB
+- Pandas
+- NumPy
+- Scikit-learn
+
+## 📚 Currently Learning
+
+- Spring Boot
+- Backend Development
+- Advanced Data Structures & Algorithms
+
+## 📫 Contact
+
+📧 **Email:** utkarshameshram24222@gmail.com
