@@ -1,6 +1,6 @@
 # Hi there, I'm Utkarsha Meshram 👋
 
-🎓 **B.Tech Computer Science Student** at VIT Pune
+🎓 **B.Tech Computer Science Student** at VIIT Pune
 
 I'm passionate about building backend applications and applying Machine Learning to solve real-world problems. I enjoy learning new technologies, solving Data Structures & Algorithms problems, and developing software that is practical and impactful.
 
